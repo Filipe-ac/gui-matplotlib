@@ -28,10 +28,9 @@ No terminal:
 
 Manipulando atributos de uma Line:
 
-![image](https://user-images.githubusercontent.com/78453361/149636207-eaa21cb1-f23a-49cc-8424-86a664cf71da.png)
+![image](https://user-images.githubusercontent.com/78453361/149636358-6abce1e2-3916-4992-b58e-01fa2a2ecaf4.png)
 
-![image](https://user-images.githubusercontent.com/78453361/149636267-01863269-d6ea-4984-b752-5727c412dc88.png)
-
+![image](https://user-images.githubusercontent.com/78453361/149636341-02662ce8-61f4-4252-9f76-7f4a6ffb9dbb.png)
 
 # Dependencias
 
